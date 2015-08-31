@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mPackaging /home/cuervo/Documents/BaseDeDatos/target/scala-2.11/basededatos_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	db/controllers/IndexController.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cuervo/Documents/BaseDeDatos/target/scala-2.11/classes/db/controllers/IndexController.class[0m
+[0m[[0mdebug[0m] [0m	db/Main$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cuervo/Documents/BaseDeDatos/target/scala-2.11/classes/db/Main$.class[0m
+[0m[[0mdebug[0m] [0m	db/Main.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cuervo/Documents/BaseDeDatos/target/scala-2.11/classes/db/Main.class[0m
+[0m[[0mdebug[0m] [0m	db/Main$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cuervo/Documents/BaseDeDatos/target/scala-2.11/classes/db/Main$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	db[0m
+[0m[[0mdebug[0m] [0m	  /home/cuervo/Documents/BaseDeDatos/target/scala-2.11/classes/db[0m
+[0m[[0mdebug[0m] [0m	db/controllers[0m
+[0m[[0mdebug[0m] [0m	  /home/cuervo/Documents/BaseDeDatos/target/scala-2.11/classes/db/controllers[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
